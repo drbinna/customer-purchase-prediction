@@ -27,7 +27,7 @@ This project implements a **binary classification neural network** to predict wh
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/customer-purchase-prediction.git
+   git clone https://github.com/drbinna/customer-purchase-prediction.git
    cd customer-purchase-prediction
    ```
 
