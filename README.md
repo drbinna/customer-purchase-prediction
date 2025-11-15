@@ -247,9 +247,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-**[Your Name]**
-- GitHub: [@yourusername](https://github.com/drbinna)
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/obinna-amadi1/)
+**Obinna Amadi**
+- GitHub: (https://github.com/drbinna)
+- LinkedIn: (https://www.linkedin.com/in/obinna-amadi1/)
 - Email: obinnaamadie@gmail.com
 
 ## 🙏 Acknowledgments
